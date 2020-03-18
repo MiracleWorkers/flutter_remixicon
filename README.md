@@ -1,14 +1,16 @@
 # flutter_remixicon
 
-A new Flutter package project.
+Custom Flutter Icon by remixicon.
 
 ## Getting Started
+```dart
+import "package:flutter_remixicon/flutter_remixicon.dart";
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Icon(
+  MIcon.zoomOutFill,
+  size: 30,
+  color: Colors.yellow
+)
+```
+> You can go to the [official website](https://remixicon.com/) to find the icon you want, and then use MIcon.iconName to get it; To prevent dart naming conflicts, the $ symbol is added before the icon name prefixed with a number, and then converted to a camel naming  
+eg: 4k-fill => $4kFill;  account-box-fill => accountBoxFill;
