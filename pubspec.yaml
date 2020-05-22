@@ -1,6 +1,6 @@
 name: flutter_remixicon
 description: A new Flutter package project.
-version: 2.3.1
+version: 2.4.0
 author: atomjaylee <atomjaylee@gmail.com>
 homepage: https://github.com/MiracleWorkers/flutter_remixicon
 
@@ -40,8 +40,7 @@ flutter:
   fonts:
     - family: MIcon
       fonts:
-        - asset: lib/fonts/remixicon.ttf
-  #         style: italic
+        - asset: packages/flutter_remixicon/fonts/remixicon.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
