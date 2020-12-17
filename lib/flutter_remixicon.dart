@@ -2,7 +2,6 @@ library flutter_remixicon;
 
 import 'package:flutter/widgets.dart';
 
-
 class MIcon {
   static const IconData ri24HoursFill = IconData(0xea01, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
   static const IconData ri24HoursLine = IconData(0xea02, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
@@ -1539,740 +1538,740 @@ class MIcon {
   static const IconData riPingPongFill = IconData(0xeffd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
   static const IconData riPingPongLine = IconData(0xeffe, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
   static const IconData riPinterestFill = IconData(0xefff, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPinterestLine = IconData(0x000, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPinyinInput = IconData(0x001, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPixelfedFill = IconData(0x002, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPixelfedLine = IconData(0x003, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlaneFill = IconData(0x004, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlaneLine = IconData(0x005, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlantFill = IconData(0x006, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlantLine = IconData(0x007, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayCircleFill = IconData(0x008, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayCircleLine = IconData(0x009, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayFill = IconData(0x00a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayLine = IconData(0x00b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayList2Fill = IconData(0x00c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayList2Line = IconData(0x00d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayListAddFill = IconData(0x00e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayListAddLine = IconData(0x00f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayListFill = IconData(0x010, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayListLine = IconData(0x011, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayMiniFill = IconData(0x012, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlayMiniLine = IconData(0x013, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlaystationFill = IconData(0x014, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlaystationLine = IconData(0x015, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlug2Fill = IconData(0x016, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlug2Line = IconData(0x017, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlugFill = IconData(0x018, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPlugLine = IconData(0x019, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPolaroid2Fill = IconData(0x01a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPolaroid2Line = IconData(0x01b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPolaroidFill = IconData(0x01c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPolaroidLine = IconData(0x01d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPoliceCarFill = IconData(0x01e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPoliceCarLine = IconData(0x01f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPriceTag2Fill = IconData(0x020, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPriceTag2Line = IconData(0x021, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPriceTag3Fill = IconData(0x022, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPriceTag3Line = IconData(0x023, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPriceTagFill = IconData(0x024, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPriceTagLine = IconData(0x025, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPrinterCloudFill = IconData(0x026, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPrinterCloudLine = IconData(0x027, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPrinterFill = IconData(0x028, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPrinterLine = IconData(0x029, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProductHuntFill = IconData(0x02a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProductHuntLine = IconData(0x02b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProfileFill = IconData(0x02c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProfileLine = IconData(0x02d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProjector2Fill = IconData(0x02e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProjector2Line = IconData(0x02f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProjectorFill = IconData(0x030, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riProjectorLine = IconData(0x031, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPsychotherapyFill = IconData(0x032, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPsychotherapyLine = IconData(0x033, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPulseFill = IconData(0x034, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPulseLine = IconData(0x035, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPushpin2Fill = IconData(0x036, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPushpin2Line = IconData(0x037, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPushpinFill = IconData(0x038, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riPushpinLine = IconData(0x039, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQqFill = IconData(0x03a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQqLine = IconData(0x03b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQrCodeFill = IconData(0x03c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQrCodeLine = IconData(0x03d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQrScan2Fill = IconData(0x03e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQrScan2Line = IconData(0x03f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQrScanFill = IconData(0x040, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQrScanLine = IconData(0x041, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuestionAnswerFill = IconData(0x042, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuestionAnswerLine = IconData(0x043, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuestionFill = IconData(0x044, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuestionLine = IconData(0x045, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuestionMark = IconData(0x046, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuestionnaireFill = IconData(0x047, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuestionnaireLine = IconData(0x048, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuillPenFill = IconData(0x049, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riQuillPenLine = IconData(0x04a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadarFill = IconData(0x04b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadarLine = IconData(0x04c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadio2Fill = IconData(0x04d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadio2Line = IconData(0x04e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadioButtonFill = IconData(0x04f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadioButtonLine = IconData(0x050, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadioFill = IconData(0x051, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRadioLine = IconData(0x052, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRainbowFill = IconData(0x053, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRainbowLine = IconData(0x054, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRainyFill = IconData(0x055, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRainyLine = IconData(0x056, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReactjsFill = IconData(0x057, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReactjsLine = IconData(0x058, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRecordCircleFill = IconData(0x059, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRecordCircleLine = IconData(0x05a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRecordMailFill = IconData(0x05b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRecordMailLine = IconData(0x05c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRecycleFill = IconData(0x05d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRecycleLine = IconData(0x05e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRedPacketFill = IconData(0x05f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRedPacketLine = IconData(0x060, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRedditFill = IconData(0x061, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRedditLine = IconData(0x062, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRefreshFill = IconData(0x063, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRefreshLine = IconData(0x064, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRefund2Fill = IconData(0x065, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRefund2Line = IconData(0x066, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRefundFill = IconData(0x067, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRefundLine = IconData(0x068, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRegisteredFill = IconData(0x069, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRegisteredLine = IconData(0x06a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRemixiconFill = IconData(0x06b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRemixiconLine = IconData(0x06c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRemoteControl2Fill = IconData(0x06d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRemoteControl2Line = IconData(0x06e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRemoteControlFill = IconData(0x06f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRemoteControlLine = IconData(0x070, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRepeat2Fill = IconData(0x071, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRepeat2Line = IconData(0x072, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRepeatFill = IconData(0x073, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRepeatLine = IconData(0x074, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRepeatOneFill = IconData(0x075, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRepeatOneLine = IconData(0x076, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReplyAllFill = IconData(0x077, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReplyAllLine = IconData(0x078, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReplyFill = IconData(0x079, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReplyLine = IconData(0x07a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReservedFill = IconData(0x07b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riReservedLine = IconData(0x07c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestTimeFill = IconData(0x07d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestTimeLine = IconData(0x07e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestartFill = IconData(0x07f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestartLine = IconData(0x080, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestaurant2Fill = IconData(0x081, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestaurant2Line = IconData(0x082, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestaurantFill = IconData(0x083, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRestaurantLine = IconData(0x084, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRewindFill = IconData(0x085, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRewindLine = IconData(0x086, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRewindMiniFill = IconData(0x087, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRewindMiniLine = IconData(0x088, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRhythmFill = IconData(0x089, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRhythmLine = IconData(0x08a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRidingFill = IconData(0x08b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRidingLine = IconData(0x08c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRoadMapFill = IconData(0x08d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRoadMapLine = IconData(0x08e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRoadsterFill = IconData(0x08f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRoadsterLine = IconData(0x090, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRobotFill = IconData(0x091, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRobotLine = IconData(0x092, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRocket2Fill = IconData(0x093, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRocket2Line = IconData(0x094, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRocketFill = IconData(0x095, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRocketLine = IconData(0x096, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRotateLockFill = IconData(0x097, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRotateLockLine = IconData(0x098, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRoundedCorner = IconData(0x099, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRouteFill = IconData(0x09a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRouteLine = IconData(0x09b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRouterFill = IconData(0x09c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRouterLine = IconData(0x09d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRssFill = IconData(0x09e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRssLine = IconData(0x09f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRuler2Fill = IconData(0x0a0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRuler2Line = IconData(0x0a1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRulerFill = IconData(0x0a2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRulerLine = IconData(0x0a3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRunFill = IconData(0x0a4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riRunLine = IconData(0x0a5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSafariFill = IconData(0x0a6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSafariLine = IconData(0x0a7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSafe2Fill = IconData(0x0a8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSafe2Line = IconData(0x0a9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSafeFill = IconData(0x0aa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSafeLine = IconData(0x0ab, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSailboatFill = IconData(0x0ac, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSailboatLine = IconData(0x0ad, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSave2Fill = IconData(0x0ae, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSave2Line = IconData(0x0af, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSave3Fill = IconData(0x0b0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSave3Line = IconData(0x0b1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSaveFill = IconData(0x0b2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSaveLine = IconData(0x0b3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScales2Fill = IconData(0x0b4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScales2Line = IconData(0x0b5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScales3Fill = IconData(0x0b6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScales3Line = IconData(0x0b7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScalesFill = IconData(0x0b8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScalesLine = IconData(0x0b9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScan2Fill = IconData(0x0ba, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScan2Line = IconData(0x0bb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScanFill = IconData(0x0bc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScanLine = IconData(0x0bd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScissors2Fill = IconData(0x0be, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScissors2Line = IconData(0x0bf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScissorsCutFill = IconData(0x0c0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScissorsCutLine = IconData(0x0c1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScissorsFill = IconData(0x0c2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScissorsLine = IconData(0x0c3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScreenshot2Fill = IconData(0x0c4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScreenshot2Line = IconData(0x0c5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScreenshotFill = IconData(0x0c6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riScreenshotLine = IconData(0x0c7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSdCardFill = IconData(0x0c8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSdCardLine = IconData(0x0c9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSdCardMiniFill = IconData(0x0ca, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSdCardMiniLine = IconData(0x0cb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSearch2Fill = IconData(0x0cc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSearch2Line = IconData(0x0cd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSearchEyeFill = IconData(0x0ce, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSearchEyeLine = IconData(0x0cf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSearchFill = IconData(0x0d0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSearchLine = IconData(0x0d1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSecurePaymentFill = IconData(0x0d2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSecurePaymentLine = IconData(0x0d3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSeedlingFill = IconData(0x0d4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSeedlingLine = IconData(0x0d5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSendBackward = IconData(0x0d6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSendPlane2Fill = IconData(0x0d7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSendPlane2Line = IconData(0x0d8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSendPlaneFill = IconData(0x0d9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSendPlaneLine = IconData(0x0da, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSendToBack = IconData(0x0db, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSensorFill = IconData(0x0dc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSensorLine = IconData(0x0dd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSeparator = IconData(0x0de, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riServerFill = IconData(0x0df, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riServerLine = IconData(0x0e0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riServiceFill = IconData(0x0e1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riServiceLine = IconData(0x0e2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings2Fill = IconData(0x0e3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings2Line = IconData(0x0e4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings3Fill = IconData(0x0e5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings3Line = IconData(0x0e6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings4Fill = IconData(0x0e7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings4Line = IconData(0x0e8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings5Fill = IconData(0x0e9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings5Line = IconData(0x0ea, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings6Fill = IconData(0x0eb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettings6Line = IconData(0x0ec, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettingsFill = IconData(0x0ed, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSettingsLine = IconData(0x0ee, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShape2Fill = IconData(0x0ef, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShape2Line = IconData(0x0f0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShapeFill = IconData(0x0f1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShapeLine = IconData(0x0f2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareBoxFill = IconData(0x0f3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareBoxLine = IconData(0x0f4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareCircleFill = IconData(0x0f5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareCircleLine = IconData(0x0f6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareFill = IconData(0x0f7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareForward2Fill = IconData(0x0f8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareForward2Line = IconData(0x0f9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareForwardBoxFill = IconData(0x0fa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareForwardBoxLine = IconData(0x0fb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareForwardFill = IconData(0x0fc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareForwardLine = IconData(0x0fd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShareLine = IconData(0x0fe, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldCheckFill = IconData(0x0ff, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldCheckLine = IconData(0x100, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldCrossFill = IconData(0x101, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldCrossLine = IconData(0x102, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldFill = IconData(0x103, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldFlashFill = IconData(0x104, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldFlashLine = IconData(0x105, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldKeyholeFill = IconData(0x106, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldKeyholeLine = IconData(0x107, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldLine = IconData(0x108, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldStarFill = IconData(0x109, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldStarLine = IconData(0x10a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldUserFill = IconData(0x10b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShieldUserLine = IconData(0x10c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShip2Fill = IconData(0x10d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShip2Line = IconData(0x10e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShipFill = IconData(0x10f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShipLine = IconData(0x110, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShirtFill = IconData(0x111, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShirtLine = IconData(0x112, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBag2Fill = IconData(0x113, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBag2Line = IconData(0x114, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBag3Fill = IconData(0x115, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBag3Line = IconData(0x116, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBagFill = IconData(0x117, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBagLine = IconData(0x118, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBasket2Fill = IconData(0x119, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBasket2Line = IconData(0x11a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBasketFill = IconData(0x11b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingBasketLine = IconData(0x11c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingCart2Fill = IconData(0x11d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingCart2Line = IconData(0x11e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingCartFill = IconData(0x11f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShoppingCartLine = IconData(0x120, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShowersFill = IconData(0x121, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShowersLine = IconData(0x122, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShuffleFill = IconData(0x123, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShuffleLine = IconData(0x124, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShutDownFill = IconData(0x125, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riShutDownLine = IconData(0x126, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSideBarFill = IconData(0x127, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSideBarLine = IconData(0x128, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalTowerFill = IconData(0x129, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalTowerLine = IconData(0x12a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifi1Fill = IconData(0x12b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifi1Line = IconData(0x12c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifi2Fill = IconData(0x12d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifi2Line = IconData(0x12e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifi3Fill = IconData(0x12f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifi3Line = IconData(0x130, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifiErrorFill = IconData(0x131, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifiErrorLine = IconData(0x132, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifiFill = IconData(0x133, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifiLine = IconData(0x134, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifiOffFill = IconData(0x135, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSignalWifiOffLine = IconData(0x136, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSimCard2Fill = IconData(0x137, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSimCard2Line = IconData(0x138, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSimCardFill = IconData(0x139, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSimCardLine = IconData(0x13a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSingleQuotesL = IconData(0x13b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSingleQuotesR = IconData(0x13c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSipFill = IconData(0x13d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSipLine = IconData(0x13e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipBackFill = IconData(0x13f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipBackLine = IconData(0x140, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipBackMiniFill = IconData(0x141, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipBackMiniLine = IconData(0x142, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipForwardFill = IconData(0x143, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipForwardLine = IconData(0x144, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipForwardMiniFill = IconData(0x145, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkipForwardMiniLine = IconData(0x146, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkull2Fill = IconData(0x147, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkull2Line = IconData(0x148, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkullFill = IconData(0x149, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkullLine = IconData(0x14a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkypeFill = IconData(0x14b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSkypeLine = IconData(0x14c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlackFill = IconData(0x14d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlackLine = IconData(0x14e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSliceFill = IconData(0x14f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSliceLine = IconData(0x150, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshow2Fill = IconData(0x151, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshow2Line = IconData(0x152, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshow3Fill = IconData(0x153, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshow3Line = IconData(0x154, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshow4Fill = IconData(0x155, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshow4Line = IconData(0x156, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshowFill = IconData(0x157, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSlideshowLine = IconData(0x158, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSmartphoneFill = IconData(0x159, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSmartphoneLine = IconData(0x15a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSnapchatFill = IconData(0x15b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSnapchatLine = IconData(0x15c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSnowyFill = IconData(0x15d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSnowyLine = IconData(0x15e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSortAsc = IconData(0x15f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSortDesc = IconData(0x160, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSoundModuleFill = IconData(0x161, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSoundModuleLine = IconData(0x162, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSoundcloudFill = IconData(0x163, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSoundcloudLine = IconData(0x164, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpaceShipFill = IconData(0x165, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpaceShipLine = IconData(0x166, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpace = IconData(0x167, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpam2Fill = IconData(0x168, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpam2Line = IconData(0x169, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpam3Fill = IconData(0x16a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpam3Line = IconData(0x16b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpamFill = IconData(0x16c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpamLine = IconData(0x16d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeaker2Fill = IconData(0x16e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeaker2Line = IconData(0x16f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeaker3Fill = IconData(0x170, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeaker3Line = IconData(0x171, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeakerFill = IconData(0x172, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeakerLine = IconData(0x173, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpectrumFill = IconData(0x174, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpectrumLine = IconData(0x175, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeedFill = IconData(0x176, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeedLine = IconData(0x177, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeedMiniFill = IconData(0x178, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpeedMiniLine = IconData(0x179, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSplitCellsHorizontal = IconData(0x17a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSplitCellsVertical = IconData(0x17b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpotifyFill = IconData(0x17c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpotifyLine = IconData(0x17d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpyFill = IconData(0x17e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSpyLine = IconData(0x17f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStackFill = IconData(0x180, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStackLine = IconData(0x181, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStackOverflowFill = IconData(0x182, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStackOverflowLine = IconData(0x183, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStackshareFill = IconData(0x184, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStackshareLine = IconData(0x185, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarFill = IconData(0x186, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarHalfFill = IconData(0x187, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarHalfLine = IconData(0x188, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarHalfSFill = IconData(0x189, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarHalfSLine = IconData(0x18a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarLine = IconData(0x18b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarSFill = IconData(0x18c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarSLine = IconData(0x18d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarSmileFill = IconData(0x18e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStarSmileLine = IconData(0x18f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSteamFill = IconData(0x190, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSteamLine = IconData(0x191, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSteering2Fill = IconData(0x192, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSteering2Line = IconData(0x193, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSteeringFill = IconData(0x194, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSteeringLine = IconData(0x195, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStethoscopeFill = IconData(0x196, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStethoscopeLine = IconData(0x197, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStickyNote2Fill = IconData(0x198, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStickyNote2Line = IconData(0x199, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStickyNoteFill = IconData(0x19a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStickyNoteLine = IconData(0x19b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStockFill = IconData(0x19c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStockLine = IconData(0x19d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStopCircleFill = IconData(0x19e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStopCircleLine = IconData(0x19f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStopFill = IconData(0x1a0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStopLine = IconData(0x1a1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStopMiniFill = IconData(0x1a2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStopMiniLine = IconData(0x1a3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStore2Fill = IconData(0x1a4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStore2Line = IconData(0x1a5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStore3Fill = IconData(0x1a6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStore3Line = IconData(0x1a7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStoreFill = IconData(0x1a8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStoreLine = IconData(0x1a9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStrikethrough2 = IconData(0x1aa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riStrikethrough = IconData(0x1ab, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubscript2 = IconData(0x1ac, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubscript = IconData(0x1ad, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubtractFill = IconData(0x1ae, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubtractLine = IconData(0x1af, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubwayFill = IconData(0x1b0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubwayLine = IconData(0x1b1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubwayWifiFill = IconData(0x1b2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSubwayWifiLine = IconData(0x1b3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuitcase2Fill = IconData(0x1b4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuitcase2Line = IconData(0x1b5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuitcase3Fill = IconData(0x1b6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuitcase3Line = IconData(0x1b7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuitcaseFill = IconData(0x1b8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuitcaseLine = IconData(0x1b9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSunCloudyFill = IconData(0x1ba, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSunCloudyLine = IconData(0x1bb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSunFill = IconData(0x1bc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSunFoggyFill = IconData(0x1bd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSunFoggyLine = IconData(0x1be, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSunLine = IconData(0x1bf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuperscript2 = IconData(0x1c0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSuperscript = IconData(0x1c1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSurgicalMaskFill = IconData(0x1c2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSurgicalMaskLine = IconData(0x1c3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSurroundSoundFill = IconData(0x1c4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSurroundSoundLine = IconData(0x1c5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSurveyFill = IconData(0x1c6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSurveyLine = IconData(0x1c7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwapBoxFill = IconData(0x1c8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwapBoxLine = IconData(0x1c9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwapFill = IconData(0x1ca, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwapLine = IconData(0x1cb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwitchFill = IconData(0x1cc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwitchLine = IconData(0x1cd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwordFill = IconData(0x1ce, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSwordLine = IconData(0x1cf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSyringeFill = IconData(0x1d0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riSyringeLine = IconData(0x1d1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTBoxFill = IconData(0x1d2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTBoxLine = IconData(0x1d3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTShirt2Fill = IconData(0x1d4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTShirt2Line = IconData(0x1d5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTShirtAirFill = IconData(0x1d6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTShirtAirLine = IconData(0x1d7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTShirtFill = IconData(0x1d8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTShirtLine = IconData(0x1d9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTable2 = IconData(0x1da, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTableAltFill = IconData(0x1db, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTableAltLine = IconData(0x1dc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTableFill = IconData(0x1dd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTableLine = IconData(0x1de, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTabletFill = IconData(0x1df, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTabletLine = IconData(0x1e0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTakeawayFill = IconData(0x1e1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTakeawayLine = IconData(0x1e2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaobaoFill = IconData(0x1e3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaobaoLine = IconData(0x1e4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTapeFill = IconData(0x1e5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTapeLine = IconData(0x1e6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaskFill = IconData(0x1e7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaskLine = IconData(0x1e8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaxiFill = IconData(0x1e9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaxiLine = IconData(0x1ea, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaxiWifiFill = IconData(0x1eb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTaxiWifiLine = IconData(0x1ec, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTeamFill = IconData(0x1ed, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTeamLine = IconData(0x1ee, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTelegramFill = IconData(0x1ef, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTelegramLine = IconData(0x1f0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTempColdFill = IconData(0x1f1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTempColdLine = IconData(0x1f2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTempHotFill = IconData(0x1f3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTempHotLine = IconData(0x1f4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTerminalBoxFill = IconData(0x1f5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTerminalBoxLine = IconData(0x1f6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTerminalFill = IconData(0x1f7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTerminalLine = IconData(0x1f8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTerminalWindowFill = IconData(0x1f9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTerminalWindowLine = IconData(0x1fa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTestTubeFill = IconData(0x1fb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTestTubeLine = IconData(0x1fc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTextDirectionL = IconData(0x1fd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTextDirectionR = IconData(0x1fe, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTextSpacing = IconData(0x1ff, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTextWrap = IconData(0x200, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riText = IconData(0x201, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThermometerFill = IconData(0x202, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThermometerLine = IconData(0x203, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThumbDownFill = IconData(0x204, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThumbDownLine = IconData(0x205, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThumbUpFill = IconData(0x206, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThumbUpLine = IconData(0x207, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThunderstormsFill = IconData(0x208, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riThunderstormsLine = IconData(0x209, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTicket2Fill = IconData(0x20a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTicket2Line = IconData(0x20b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTicketFill = IconData(0x20c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTicketLine = IconData(0x20d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimeFill = IconData(0x20e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimeLine = IconData(0x20f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimer2Fill = IconData(0x210, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimer2Line = IconData(0x211, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimerFill = IconData(0x212, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimerFlashFill = IconData(0x213, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimerFlashLine = IconData(0x214, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTimerLine = IconData(0x215, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTodoFill = IconData(0x216, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTodoLine = IconData(0x217, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riToggleFill = IconData(0x218, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riToggleLine = IconData(0x219, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riToolsFill = IconData(0x21a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riToolsLine = IconData(0x21b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTornadoFill = IconData(0x21c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTornadoLine = IconData(0x21d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrademarkFill = IconData(0x21e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrademarkLine = IconData(0x21f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrafficLightFill = IconData(0x220, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrafficLightLine = IconData(0x221, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrainFill = IconData(0x222, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrainLine = IconData(0x223, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrainWifiFill = IconData(0x224, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrainWifiLine = IconData(0x225, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTranslate2 = IconData(0x226, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTranslate = IconData(0x227, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTravestiFill = IconData(0x228, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTravestiLine = IconData(0x229, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTreasureMapFill = IconData(0x22a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTreasureMapLine = IconData(0x22b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrelloFill = IconData(0x22c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrelloLine = IconData(0x22d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrophyFill = IconData(0x22e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTrophyLine = IconData(0x22f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTruckFill = IconData(0x230, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTruckLine = IconData(0x231, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTumblrFill = IconData(0x232, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTumblrLine = IconData(0x233, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTv2Fill = IconData(0x234, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTv2Line = IconData(0x235, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTvFill = IconData(0x236, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTvLine = IconData(0x237, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTwitchFill = IconData(0x238, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTwitchLine = IconData(0x239, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTwitterFill = IconData(0x23a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTwitterLine = IconData(0x23b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTyphoonFill = IconData(0x23c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riTyphoonLine = IconData(0x23d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUDiskFill = IconData(0x23e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUDiskLine = IconData(0x23f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUbuntuFill = IconData(0x240, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUbuntuLine = IconData(0x241, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUmbrellaFill = IconData(0x242, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUmbrellaLine = IconData(0x243, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUnderline = IconData(0x244, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUninstallFill = IconData(0x245, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUninstallLine = IconData(0x246, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUnsplashFill = IconData(0x247, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUnsplashLine = IconData(0x248, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUpload2Fill = IconData(0x249, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUpload2Line = IconData(0x24a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUploadCloud2Fill = IconData(0x24b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUploadCloud2Line = IconData(0x24c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUploadCloudFill = IconData(0x24d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUploadCloudLine = IconData(0x24e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUploadFill = IconData(0x24f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUploadLine = IconData(0x250, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUsbFill = IconData(0x251, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUsbLine = IconData(0x252, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser2Fill = IconData(0x253, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser2Line = IconData(0x254, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser3Fill = IconData(0x255, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser3Line = IconData(0x256, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser4Fill = IconData(0x257, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser4Line = IconData(0x258, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser5Fill = IconData(0x259, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser5Line = IconData(0x25a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser6Fill = IconData(0x25b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUser6Line = IconData(0x25c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserAddFill = IconData(0x25d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserAddLine = IconData(0x25e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserFill = IconData(0x25f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserFollowFill = IconData(0x260, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserFollowLine = IconData(0x261, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserHeartFill = IconData(0x262, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserHeartLine = IconData(0x263, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserLine = IconData(0x264, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserLocationFill = IconData(0x265, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserLocationLine = IconData(0x266, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserReceived2Fill = IconData(0x267, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserReceived2Line = IconData(0x268, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserReceivedFill = IconData(0x269, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserReceivedLine = IconData(0x26a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSearchFill = IconData(0x26b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSearchLine = IconData(0x26c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSettingsFill = IconData(0x26d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSettingsLine = IconData(0x26e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserShared2Fill = IconData(0x26f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserShared2Line = IconData(0x270, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSharedFill = IconData(0x271, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSharedLine = IconData(0x272, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSmileFill = IconData(0x273, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserSmileLine = IconData(0x274, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserStarFill = IconData(0x275, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserStarLine = IconData(0x276, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserUnfollowFill = IconData(0x277, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserUnfollowLine = IconData(0x278, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserVoiceFill = IconData(0x279, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riUserVoiceLine = IconData(0x27a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoAddFill = IconData(0x27b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoAddLine = IconData(0x27c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoChatFill = IconData(0x27d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoChatLine = IconData(0x27e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoDownloadFill = IconData(0x27f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoDownloadLine = IconData(0x280, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoFill = IconData(0x281, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoLine = IconData(0x282, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoUploadFill = IconData(0x283, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVideoUploadLine = IconData(0x284, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVidicon2Fill = IconData(0x285, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVidicon2Line = IconData(0x286, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVidiconFill = IconData(0x287, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVidiconLine = IconData(0x288, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVimeoFill = IconData(0x289, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVimeoLine = IconData(0x28a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipCrown2Fill = IconData(0x28b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipCrown2Line = IconData(0x28c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipCrownFill = IconData(0x28d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipCrownLine = IconData(0x28e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipDiamondFill = IconData(0x28f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipDiamondLine = IconData(0x290, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipFill = IconData(0x291, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVipLine = IconData(0x292, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVirusFill = IconData(0x293, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVirusLine = IconData(0x294, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVisaFill = IconData(0x295, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVisaLine = IconData(0x296, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVoiceRecognitionFill = IconData(0x297, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVoiceRecognitionLine = IconData(0x298, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVoiceprintFill = IconData(0x299, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVoiceprintLine = IconData(0x29a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeDownFill = IconData(0x29b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeDownLine = IconData(0x29c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeMuteFill = IconData(0x29d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeMuteLine = IconData(0x29e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeOffVibrateFill = IconData(0x29f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeOffVibrateLine = IconData(0x2a0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeUpFill = IconData(0x2a1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeUpLine = IconData(0x2a2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeVibrateFill = IconData(0x2a3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVolumeVibrateLine = IconData(0x2a4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVuejsFill = IconData(0x2a5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riVuejsLine = IconData(0x2a6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWalkFill = IconData(0x2a7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWalkLine = IconData(0x2a8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWallet2Fill = IconData(0x2a9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWallet2Line = IconData(0x2aa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWallet3Fill = IconData(0x2ab, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWallet3Line = IconData(0x2ac, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWalletFill = IconData(0x2ad, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWalletLine = IconData(0x2ae, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWaterFlashFill = IconData(0x2af, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWaterFlashLine = IconData(0x2b0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWebcamFill = IconData(0x2b1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWebcamLine = IconData(0x2b2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWechat2Fill = IconData(0x2b3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWechat2Line = IconData(0x2b4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWechatFill = IconData(0x2b5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWechatLine = IconData(0x2b6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWechatPayFill = IconData(0x2b7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWechatPayLine = IconData(0x2b8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWeiboFill = IconData(0x2b9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWeiboLine = IconData(0x2ba, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWhatsappFill = IconData(0x2bb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWhatsappLine = IconData(0x2bc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWheelchairFill = IconData(0x2bd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWheelchairLine = IconData(0x2be, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWifiFill = IconData(0x2bf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWifiLine = IconData(0x2c0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWifiOffFill = IconData(0x2c1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWifiOffLine = IconData(0x2c2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindow2Fill = IconData(0x2c3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindow2Line = IconData(0x2c4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindowFill = IconData(0x2c5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindowLine = IconData(0x2c6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindowsFill = IconData(0x2c7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindowsLine = IconData(0x2c8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindyFill = IconData(0x2c9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWindyLine = IconData(0x2ca, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWirelessChargingFill = IconData(0x2cb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWirelessChargingLine = IconData(0x2cc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWomenFill = IconData(0x2cd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWomenLine = IconData(0x2ce, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riWubiInput = IconData(0x2cf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riXboxFill = IconData(0x2d0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riXboxLine = IconData(0x2d1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riXingFill = IconData(0x2d2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riXingLine = IconData(0x2d3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riYoutubeFill = IconData(0x2d4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riYoutubeLine = IconData(0x2d5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZcoolFill = IconData(0x2d6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZcoolLine = IconData(0x2d7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZhihuFill = IconData(0x2d8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZhihuLine = IconData(0x2d9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZoomInFill = IconData(0x2da, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZoomInLine = IconData(0x2db, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZoomOutFill = IconData(0x2dc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZoomOutLine = IconData(0x2dd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZzzFill = IconData(0x2de, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
-  static const IconData riZzzLine = IconData(0x2df, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPinterestLine = IconData(0xf000, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPinyinInput = IconData(0xf001, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPixelfedFill = IconData(0xf002, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPixelfedLine = IconData(0xf003, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlaneFill = IconData(0xf004, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlaneLine = IconData(0xf005, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlantFill = IconData(0xf006, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlantLine = IconData(0xf007, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayCircleFill = IconData(0xf008, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayCircleLine = IconData(0xf009, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayFill = IconData(0xf00a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayLine = IconData(0xf00b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayList2Fill = IconData(0xf00c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayList2Line = IconData(0xf00d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayListAddFill = IconData(0xf00e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayListAddLine = IconData(0xf00f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayListFill = IconData(0xf010, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayListLine = IconData(0xf011, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayMiniFill = IconData(0xf012, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlayMiniLine = IconData(0xf013, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlaystationFill = IconData(0xf014, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlaystationLine = IconData(0xf015, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlug2Fill = IconData(0xf016, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlug2Line = IconData(0xf017, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlugFill = IconData(0xf018, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPlugLine = IconData(0xf019, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPolaroid2Fill = IconData(0xf01a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPolaroid2Line = IconData(0xf01b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPolaroidFill = IconData(0xf01c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPolaroidLine = IconData(0xf01d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPoliceCarFill = IconData(0xf01e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPoliceCarLine = IconData(0xf01f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPriceTag2Fill = IconData(0xf020, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPriceTag2Line = IconData(0xf021, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPriceTag3Fill = IconData(0xf022, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPriceTag3Line = IconData(0xf023, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPriceTagFill = IconData(0xf024, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPriceTagLine = IconData(0xf025, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPrinterCloudFill = IconData(0xf026, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPrinterCloudLine = IconData(0xf027, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPrinterFill = IconData(0xf028, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPrinterLine = IconData(0xf029, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProductHuntFill = IconData(0xf02a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProductHuntLine = IconData(0xf02b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProfileFill = IconData(0xf02c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProfileLine = IconData(0xf02d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProjector2Fill = IconData(0xf02e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProjector2Line = IconData(0xf02f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProjectorFill = IconData(0xf030, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riProjectorLine = IconData(0xf031, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPsychotherapyFill = IconData(0xf032, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPsychotherapyLine = IconData(0xf033, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPulseFill = IconData(0xf034, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPulseLine = IconData(0xf035, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPushpin2Fill = IconData(0xf036, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPushpin2Line = IconData(0xf037, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPushpinFill = IconData(0xf038, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riPushpinLine = IconData(0xf039, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQqFill = IconData(0xf03a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQqLine = IconData(0xf03b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQrCodeFill = IconData(0xf03c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQrCodeLine = IconData(0xf03d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQrScan2Fill = IconData(0xf03e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQrScan2Line = IconData(0xf03f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQrScanFill = IconData(0xf040, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQrScanLine = IconData(0xf041, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuestionAnswerFill = IconData(0xf042, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuestionAnswerLine = IconData(0xf043, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuestionFill = IconData(0xf044, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuestionLine = IconData(0xf045, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuestionMark = IconData(0xf046, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuestionnaireFill = IconData(0xf047, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuestionnaireLine = IconData(0xf048, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuillPenFill = IconData(0xf049, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riQuillPenLine = IconData(0xf04a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadarFill = IconData(0xf04b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadarLine = IconData(0xf04c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadio2Fill = IconData(0xf04d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadio2Line = IconData(0xf04e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadioButtonFill = IconData(0xf04f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadioButtonLine = IconData(0xf050, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadioFill = IconData(0xf051, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRadioLine = IconData(0xf052, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRainbowFill = IconData(0xf053, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRainbowLine = IconData(0xf054, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRainyFill = IconData(0xf055, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRainyLine = IconData(0xf056, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReactjsFill = IconData(0xf057, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReactjsLine = IconData(0xf058, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRecordCircleFill = IconData(0xf059, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRecordCircleLine = IconData(0xf05a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRecordMailFill = IconData(0xf05b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRecordMailLine = IconData(0xf05c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRecycleFill = IconData(0xf05d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRecycleLine = IconData(0xf05e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRedPacketFill = IconData(0xf05f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRedPacketLine = IconData(0xf060, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRedditFill = IconData(0xf061, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRedditLine = IconData(0xf062, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRefreshFill = IconData(0xf063, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRefreshLine = IconData(0xf064, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRefund2Fill = IconData(0xf065, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRefund2Line = IconData(0xf066, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRefundFill = IconData(0xf067, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRefundLine = IconData(0xf068, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRegisteredFill = IconData(0xf069, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRegisteredLine = IconData(0xf06a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRemixiconFill = IconData(0xf06b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRemixiconLine = IconData(0xf06c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRemoteControl2Fill = IconData(0xf06d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRemoteControl2Line = IconData(0xf06e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRemoteControlFill = IconData(0xf06f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRemoteControlLine = IconData(0xf070, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRepeat2Fill = IconData(0xf071, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRepeat2Line = IconData(0xf072, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRepeatFill = IconData(0xf073, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRepeatLine = IconData(0xf074, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRepeatOneFill = IconData(0xf075, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRepeatOneLine = IconData(0xf076, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReplyAllFill = IconData(0xf077, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReplyAllLine = IconData(0xf078, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReplyFill = IconData(0xf079, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReplyLine = IconData(0xf07a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReservedFill = IconData(0xf07b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riReservedLine = IconData(0xf07c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestTimeFill = IconData(0xf07d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestTimeLine = IconData(0xf07e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestartFill = IconData(0xf07f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestartLine = IconData(0xf080, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestaurant2Fill = IconData(0xf081, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestaurant2Line = IconData(0xf082, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestaurantFill = IconData(0xf083, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRestaurantLine = IconData(0xf084, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRewindFill = IconData(0xf085, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRewindLine = IconData(0xf086, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRewindMiniFill = IconData(0xf087, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRewindMiniLine = IconData(0xf088, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRhythmFill = IconData(0xf089, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRhythmLine = IconData(0xf08a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRidingFill = IconData(0xf08b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRidingLine = IconData(0xf08c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRoadMapFill = IconData(0xf08d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRoadMapLine = IconData(0xf08e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRoadsterFill = IconData(0xf08f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRoadsterLine = IconData(0xf090, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRobotFill = IconData(0xf091, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRobotLine = IconData(0xf092, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRocket2Fill = IconData(0xf093, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRocket2Line = IconData(0xf094, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRocketFill = IconData(0xf095, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRocketLine = IconData(0xf096, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRotateLockFill = IconData(0xf097, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRotateLockLine = IconData(0xf098, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRoundedCorner = IconData(0xf099, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRouteFill = IconData(0xf09a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRouteLine = IconData(0xf09b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRouterFill = IconData(0xf09c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRouterLine = IconData(0xf09d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRssFill = IconData(0xf09e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRssLine = IconData(0xf09f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRuler2Fill = IconData(0xf0a0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRuler2Line = IconData(0xf0a1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRulerFill = IconData(0xf0a2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRulerLine = IconData(0xf0a3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRunFill = IconData(0xf0a4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riRunLine = IconData(0xf0a5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSafariFill = IconData(0xf0a6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSafariLine = IconData(0xf0a7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSafe2Fill = IconData(0xf0a8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSafe2Line = IconData(0xf0a9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSafeFill = IconData(0xf0aa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSafeLine = IconData(0xf0ab, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSailboatFill = IconData(0xf0ac, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSailboatLine = IconData(0xf0ad, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSave2Fill = IconData(0xf0ae, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSave2Line = IconData(0xf0af, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSave3Fill = IconData(0xf0b0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSave3Line = IconData(0xf0b1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSaveFill = IconData(0xf0b2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSaveLine = IconData(0xf0b3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScales2Fill = IconData(0xf0b4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScales2Line = IconData(0xf0b5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScales3Fill = IconData(0xf0b6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScales3Line = IconData(0xf0b7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScalesFill = IconData(0xf0b8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScalesLine = IconData(0xf0b9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScan2Fill = IconData(0xf0ba, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScan2Line = IconData(0xf0bb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScanFill = IconData(0xf0bc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScanLine = IconData(0xf0bd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScissors2Fill = IconData(0xf0be, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScissors2Line = IconData(0xf0bf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScissorsCutFill = IconData(0xf0c0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScissorsCutLine = IconData(0xf0c1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScissorsFill = IconData(0xf0c2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScissorsLine = IconData(0xf0c3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScreenshot2Fill = IconData(0xf0c4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScreenshot2Line = IconData(0xf0c5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScreenshotFill = IconData(0xf0c6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riScreenshotLine = IconData(0xf0c7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSdCardFill = IconData(0xf0c8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSdCardLine = IconData(0xf0c9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSdCardMiniFill = IconData(0xf0ca, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSdCardMiniLine = IconData(0xf0cb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSearch2Fill = IconData(0xf0cc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSearch2Line = IconData(0xf0cd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSearchEyeFill = IconData(0xf0ce, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSearchEyeLine = IconData(0xf0cf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSearchFill = IconData(0xf0d0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSearchLine = IconData(0xf0d1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSecurePaymentFill = IconData(0xf0d2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSecurePaymentLine = IconData(0xf0d3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSeedlingFill = IconData(0xf0d4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSeedlingLine = IconData(0xf0d5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSendBackward = IconData(0xf0d6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSendPlane2Fill = IconData(0xf0d7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSendPlane2Line = IconData(0xf0d8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSendPlaneFill = IconData(0xf0d9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSendPlaneLine = IconData(0xf0da, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSendToBack = IconData(0xf0db, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSensorFill = IconData(0xf0dc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSensorLine = IconData(0xf0dd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSeparator = IconData(0xf0de, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riServerFill = IconData(0xf0df, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riServerLine = IconData(0xf0e0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riServiceFill = IconData(0xf0e1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riServiceLine = IconData(0xf0e2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings2Fill = IconData(0xf0e3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings2Line = IconData(0xf0e4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings3Fill = IconData(0xf0e5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings3Line = IconData(0xf0e6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings4Fill = IconData(0xf0e7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings4Line = IconData(0xf0e8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings5Fill = IconData(0xf0e9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings5Line = IconData(0xf0ea, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings6Fill = IconData(0xf0eb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettings6Line = IconData(0xf0ec, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettingsFill = IconData(0xf0ed, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSettingsLine = IconData(0xf0ee, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShape2Fill = IconData(0xf0ef, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShape2Line = IconData(0xf0f0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShapeFill = IconData(0xf0f1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShapeLine = IconData(0xf0f2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareBoxFill = IconData(0xf0f3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareBoxLine = IconData(0xf0f4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareCircleFill = IconData(0xf0f5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareCircleLine = IconData(0xf0f6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareFill = IconData(0xf0f7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareForward2Fill = IconData(0xf0f8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareForward2Line = IconData(0xf0f9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareForwardBoxFill = IconData(0xf0fa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareForwardBoxLine = IconData(0xf0fb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareForwardFill = IconData(0xf0fc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareForwardLine = IconData(0xf0fd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShareLine = IconData(0xf0fe, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldCheckFill = IconData(0xf0ff, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldCheckLine = IconData(0xf100, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldCrossFill = IconData(0xf101, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldCrossLine = IconData(0xf102, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldFill = IconData(0xf103, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldFlashFill = IconData(0xf104, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldFlashLine = IconData(0xf105, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldKeyholeFill = IconData(0xf106, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldKeyholeLine = IconData(0xf107, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldLine = IconData(0xf108, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldStarFill = IconData(0xf109, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldStarLine = IconData(0xf10a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldUserFill = IconData(0xf10b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShieldUserLine = IconData(0xf10c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShip2Fill = IconData(0xf10d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShip2Line = IconData(0xf10e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShipFill = IconData(0xf10f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShipLine = IconData(0xf110, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShirtFill = IconData(0xf111, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShirtLine = IconData(0xf112, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBag2Fill = IconData(0xf113, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBag2Line = IconData(0xf114, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBag3Fill = IconData(0xf115, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBag3Line = IconData(0xf116, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBagFill = IconData(0xf117, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBagLine = IconData(0xf118, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBasket2Fill = IconData(0xf119, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBasket2Line = IconData(0xf11a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBasketFill = IconData(0xf11b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingBasketLine = IconData(0xf11c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingCart2Fill = IconData(0xf11d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingCart2Line = IconData(0xf11e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingCartFill = IconData(0xf11f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShoppingCartLine = IconData(0xf120, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShowersFill = IconData(0xf121, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShowersLine = IconData(0xf122, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShuffleFill = IconData(0xf123, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShuffleLine = IconData(0xf124, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShutDownFill = IconData(0xf125, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riShutDownLine = IconData(0xf126, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSideBarFill = IconData(0xf127, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSideBarLine = IconData(0xf128, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalTowerFill = IconData(0xf129, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalTowerLine = IconData(0xf12a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifi1Fill = IconData(0xf12b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifi1Line = IconData(0xf12c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifi2Fill = IconData(0xf12d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifi2Line = IconData(0xf12e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifi3Fill = IconData(0xf12f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifi3Line = IconData(0xf130, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifiErrorFill = IconData(0xf131, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifiErrorLine = IconData(0xf132, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifiFill = IconData(0xf133, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifiLine = IconData(0xf134, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifiOffFill = IconData(0xf135, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSignalWifiOffLine = IconData(0xf136, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSimCard2Fill = IconData(0xf137, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSimCard2Line = IconData(0xf138, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSimCardFill = IconData(0xf139, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSimCardLine = IconData(0xf13a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSingleQuotesL = IconData(0xf13b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSingleQuotesR = IconData(0xf13c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSipFill = IconData(0xf13d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSipLine = IconData(0xf13e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipBackFill = IconData(0xf13f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipBackLine = IconData(0xf140, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipBackMiniFill = IconData(0xf141, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipBackMiniLine = IconData(0xf142, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipForwardFill = IconData(0xf143, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipForwardLine = IconData(0xf144, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipForwardMiniFill = IconData(0xf145, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkipForwardMiniLine = IconData(0xf146, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkull2Fill = IconData(0xf147, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkull2Line = IconData(0xf148, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkullFill = IconData(0xf149, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkullLine = IconData(0xf14a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkypeFill = IconData(0xf14b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSkypeLine = IconData(0xf14c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlackFill = IconData(0xf14d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlackLine = IconData(0xf14e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSliceFill = IconData(0xf14f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSliceLine = IconData(0xf150, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshow2Fill = IconData(0xf151, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshow2Line = IconData(0xf152, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshow3Fill = IconData(0xf153, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshow3Line = IconData(0xf154, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshow4Fill = IconData(0xf155, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshow4Line = IconData(0xf156, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshowFill = IconData(0xf157, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSlideshowLine = IconData(0xf158, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSmartphoneFill = IconData(0xf159, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSmartphoneLine = IconData(0xf15a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSnapchatFill = IconData(0xf15b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSnapchatLine = IconData(0xf15c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSnowyFill = IconData(0xf15d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSnowyLine = IconData(0xf15e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSortAsc = IconData(0xf15f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSortDesc = IconData(0xf160, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSoundModuleFill = IconData(0xf161, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSoundModuleLine = IconData(0xf162, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSoundcloudFill = IconData(0xf163, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSoundcloudLine = IconData(0xf164, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpaceShipFill = IconData(0xf165, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpaceShipLine = IconData(0xf166, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpace = IconData(0xf167, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpam2Fill = IconData(0xf168, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpam2Line = IconData(0xf169, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpam3Fill = IconData(0xf16a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpam3Line = IconData(0xf16b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpamFill = IconData(0xf16c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpamLine = IconData(0xf16d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeaker2Fill = IconData(0xf16e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeaker2Line = IconData(0xf16f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeaker3Fill = IconData(0xf170, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeaker3Line = IconData(0xf171, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeakerFill = IconData(0xf172, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeakerLine = IconData(0xf173, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpectrumFill = IconData(0xf174, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpectrumLine = IconData(0xf175, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeedFill = IconData(0xf176, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeedLine = IconData(0xf177, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeedMiniFill = IconData(0xf178, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpeedMiniLine = IconData(0xf179, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSplitCellsHorizontal = IconData(0xf17a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSplitCellsVertical = IconData(0xf17b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpotifyFill = IconData(0xf17c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpotifyLine = IconData(0xf17d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpyFill = IconData(0xf17e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSpyLine = IconData(0xf17f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStackFill = IconData(0xf180, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStackLine = IconData(0xf181, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStackOverflowFill = IconData(0xf182, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStackOverflowLine = IconData(0xf183, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStackshareFill = IconData(0xf184, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStackshareLine = IconData(0xf185, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarFill = IconData(0xf186, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarHalfFill = IconData(0xf187, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarHalfLine = IconData(0xf188, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarHalfSFill = IconData(0xf189, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarHalfSLine = IconData(0xf18a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarLine = IconData(0xf18b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarSFill = IconData(0xf18c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarSLine = IconData(0xf18d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarSmileFill = IconData(0xf18e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStarSmileLine = IconData(0xf18f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSteamFill = IconData(0xf190, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSteamLine = IconData(0xf191, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSteering2Fill = IconData(0xf192, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSteering2Line = IconData(0xf193, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSteeringFill = IconData(0xf194, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSteeringLine = IconData(0xf195, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStethoscopeFill = IconData(0xf196, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStethoscopeLine = IconData(0xf197, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStickyNote2Fill = IconData(0xf198, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStickyNote2Line = IconData(0xf199, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStickyNoteFill = IconData(0xf19a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStickyNoteLine = IconData(0xf19b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStockFill = IconData(0xf19c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStockLine = IconData(0xf19d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStopCircleFill = IconData(0xf19e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStopCircleLine = IconData(0xf19f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStopFill = IconData(0xf1a0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStopLine = IconData(0xf1a1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStopMiniFill = IconData(0xf1a2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStopMiniLine = IconData(0xf1a3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStore2Fill = IconData(0xf1a4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStore2Line = IconData(0xf1a5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStore3Fill = IconData(0xf1a6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStore3Line = IconData(0xf1a7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStoreFill = IconData(0xf1a8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStoreLine = IconData(0xf1a9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStrikethrough2 = IconData(0xf1aa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riStrikethrough = IconData(0xf1ab, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubscript2 = IconData(0xf1ac, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubscript = IconData(0xf1ad, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubtractFill = IconData(0xf1ae, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubtractLine = IconData(0xf1af, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubwayFill = IconData(0xf1b0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubwayLine = IconData(0xf1b1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubwayWifiFill = IconData(0xf1b2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSubwayWifiLine = IconData(0xf1b3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuitcase2Fill = IconData(0xf1b4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuitcase2Line = IconData(0xf1b5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuitcase3Fill = IconData(0xf1b6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuitcase3Line = IconData(0xf1b7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuitcaseFill = IconData(0xf1b8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuitcaseLine = IconData(0xf1b9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSunCloudyFill = IconData(0xf1ba, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSunCloudyLine = IconData(0xf1bb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSunFill = IconData(0xf1bc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSunFoggyFill = IconData(0xf1bd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSunFoggyLine = IconData(0xf1be, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSunLine = IconData(0xf1bf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuperscript2 = IconData(0xf1c0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSuperscript = IconData(0xf1c1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSurgicalMaskFill = IconData(0xf1c2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSurgicalMaskLine = IconData(0xf1c3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSurroundSoundFill = IconData(0xf1c4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSurroundSoundLine = IconData(0xf1c5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSurveyFill = IconData(0xf1c6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSurveyLine = IconData(0xf1c7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwapBoxFill = IconData(0xf1c8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwapBoxLine = IconData(0xf1c9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwapFill = IconData(0xf1ca, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwapLine = IconData(0xf1cb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwitchFill = IconData(0xf1cc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwitchLine = IconData(0xf1cd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwordFill = IconData(0xf1ce, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSwordLine = IconData(0xf1cf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSyringeFill = IconData(0xf1d0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riSyringeLine = IconData(0xf1d1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTBoxFill = IconData(0xf1d2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTBoxLine = IconData(0xf1d3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTShirt2Fill = IconData(0xf1d4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTShirt2Line = IconData(0xf1d5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTShirtAirFill = IconData(0xf1d6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTShirtAirLine = IconData(0xf1d7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTShirtFill = IconData(0xf1d8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTShirtLine = IconData(0xf1d9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTable2 = IconData(0xf1da, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTableAltFill = IconData(0xf1db, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTableAltLine = IconData(0xf1dc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTableFill = IconData(0xf1dd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTableLine = IconData(0xf1de, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTabletFill = IconData(0xf1df, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTabletLine = IconData(0xf1e0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTakeawayFill = IconData(0xf1e1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTakeawayLine = IconData(0xf1e2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaobaoFill = IconData(0xf1e3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaobaoLine = IconData(0xf1e4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTapeFill = IconData(0xf1e5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTapeLine = IconData(0xf1e6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaskFill = IconData(0xf1e7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaskLine = IconData(0xf1e8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaxiFill = IconData(0xf1e9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaxiLine = IconData(0xf1ea, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaxiWifiFill = IconData(0xf1eb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTaxiWifiLine = IconData(0xf1ec, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTeamFill = IconData(0xf1ed, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTeamLine = IconData(0xf1ee, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTelegramFill = IconData(0xf1ef, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTelegramLine = IconData(0xf1f0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTempColdFill = IconData(0xf1f1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTempColdLine = IconData(0xf1f2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTempHotFill = IconData(0xf1f3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTempHotLine = IconData(0xf1f4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTerminalBoxFill = IconData(0xf1f5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTerminalBoxLine = IconData(0xf1f6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTerminalFill = IconData(0xf1f7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTerminalLine = IconData(0xf1f8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTerminalWindowFill = IconData(0xf1f9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTerminalWindowLine = IconData(0xf1fa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTestTubeFill = IconData(0xf1fb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTestTubeLine = IconData(0xf1fc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTextDirectionL = IconData(0xf1fd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTextDirectionR = IconData(0xf1fe, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTextSpacing = IconData(0xf1ff, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTextWrap = IconData(0xf200, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riText = IconData(0xf201, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThermometerFill = IconData(0xf202, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThermometerLine = IconData(0xf203, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThumbDownFill = IconData(0xf204, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThumbDownLine = IconData(0xf205, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThumbUpFill = IconData(0xf206, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThumbUpLine = IconData(0xf207, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThunderstormsFill = IconData(0xf208, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riThunderstormsLine = IconData(0xf209, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTicket2Fill = IconData(0xf20a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTicket2Line = IconData(0xf20b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTicketFill = IconData(0xf20c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTicketLine = IconData(0xf20d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimeFill = IconData(0xf20e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimeLine = IconData(0xf20f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimer2Fill = IconData(0xf210, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimer2Line = IconData(0xf211, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimerFill = IconData(0xf212, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimerFlashFill = IconData(0xf213, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimerFlashLine = IconData(0xf214, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTimerLine = IconData(0xf215, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTodoFill = IconData(0xf216, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTodoLine = IconData(0xf217, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riToggleFill = IconData(0xf218, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riToggleLine = IconData(0xf219, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riToolsFill = IconData(0xf21a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riToolsLine = IconData(0xf21b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTornadoFill = IconData(0xf21c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTornadoLine = IconData(0xf21d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrademarkFill = IconData(0xf21e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrademarkLine = IconData(0xf21f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrafficLightFill = IconData(0xf220, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrafficLightLine = IconData(0xf221, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrainFill = IconData(0xf222, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrainLine = IconData(0xf223, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrainWifiFill = IconData(0xf224, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrainWifiLine = IconData(0xf225, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTranslate2 = IconData(0xf226, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTranslate = IconData(0xf227, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTravestiFill = IconData(0xf228, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTravestiLine = IconData(0xf229, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTreasureMapFill = IconData(0xf22a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTreasureMapLine = IconData(0xf22b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrelloFill = IconData(0xf22c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrelloLine = IconData(0xf22d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrophyFill = IconData(0xf22e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTrophyLine = IconData(0xf22f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTruckFill = IconData(0xf230, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTruckLine = IconData(0xf231, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTumblrFill = IconData(0xf232, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTumblrLine = IconData(0xf233, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTv2Fill = IconData(0xf234, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTv2Line = IconData(0xf235, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTvFill = IconData(0xf236, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTvLine = IconData(0xf237, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTwitchFill = IconData(0xf238, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTwitchLine = IconData(0xf239, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTwitterFill = IconData(0xf23a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTwitterLine = IconData(0xf23b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTyphoonFill = IconData(0xf23c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riTyphoonLine = IconData(0xf23d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUDiskFill = IconData(0xf23e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUDiskLine = IconData(0xf23f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUbuntuFill = IconData(0xf240, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUbuntuLine = IconData(0xf241, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUmbrellaFill = IconData(0xf242, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUmbrellaLine = IconData(0xf243, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUnderline = IconData(0xf244, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUninstallFill = IconData(0xf245, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUninstallLine = IconData(0xf246, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUnsplashFill = IconData(0xf247, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUnsplashLine = IconData(0xf248, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUpload2Fill = IconData(0xf249, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUpload2Line = IconData(0xf24a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUploadCloud2Fill = IconData(0xf24b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUploadCloud2Line = IconData(0xf24c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUploadCloudFill = IconData(0xf24d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUploadCloudLine = IconData(0xf24e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUploadFill = IconData(0xf24f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUploadLine = IconData(0xf250, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUsbFill = IconData(0xf251, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUsbLine = IconData(0xf252, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser2Fill = IconData(0xf253, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser2Line = IconData(0xf254, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser3Fill = IconData(0xf255, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser3Line = IconData(0xf256, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser4Fill = IconData(0xf257, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser4Line = IconData(0xf258, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser5Fill = IconData(0xf259, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser5Line = IconData(0xf25a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser6Fill = IconData(0xf25b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUser6Line = IconData(0xf25c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserAddFill = IconData(0xf25d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserAddLine = IconData(0xf25e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserFill = IconData(0xf25f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserFollowFill = IconData(0xf260, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserFollowLine = IconData(0xf261, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserHeartFill = IconData(0xf262, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserHeartLine = IconData(0xf263, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserLine = IconData(0xf264, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserLocationFill = IconData(0xf265, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserLocationLine = IconData(0xf266, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserReceived2Fill = IconData(0xf267, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserReceived2Line = IconData(0xf268, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserReceivedFill = IconData(0xf269, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserReceivedLine = IconData(0xf26a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSearchFill = IconData(0xf26b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSearchLine = IconData(0xf26c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSettingsFill = IconData(0xf26d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSettingsLine = IconData(0xf26e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserShared2Fill = IconData(0xf26f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserShared2Line = IconData(0xf270, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSharedFill = IconData(0xf271, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSharedLine = IconData(0xf272, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSmileFill = IconData(0xf273, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserSmileLine = IconData(0xf274, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserStarFill = IconData(0xf275, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserStarLine = IconData(0xf276, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserUnfollowFill = IconData(0xf277, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserUnfollowLine = IconData(0xf278, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserVoiceFill = IconData(0xf279, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riUserVoiceLine = IconData(0xf27a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoAddFill = IconData(0xf27b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoAddLine = IconData(0xf27c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoChatFill = IconData(0xf27d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoChatLine = IconData(0xf27e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoDownloadFill = IconData(0xf27f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoDownloadLine = IconData(0xf280, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoFill = IconData(0xf281, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoLine = IconData(0xf282, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoUploadFill = IconData(0xf283, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVideoUploadLine = IconData(0xf284, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVidicon2Fill = IconData(0xf285, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVidicon2Line = IconData(0xf286, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVidiconFill = IconData(0xf287, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVidiconLine = IconData(0xf288, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVimeoFill = IconData(0xf289, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVimeoLine = IconData(0xf28a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipCrown2Fill = IconData(0xf28b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipCrown2Line = IconData(0xf28c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipCrownFill = IconData(0xf28d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipCrownLine = IconData(0xf28e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipDiamondFill = IconData(0xf28f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipDiamondLine = IconData(0xf290, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipFill = IconData(0xf291, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVipLine = IconData(0xf292, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVirusFill = IconData(0xf293, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVirusLine = IconData(0xf294, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVisaFill = IconData(0xf295, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVisaLine = IconData(0xf296, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVoiceRecognitionFill = IconData(0xf297, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVoiceRecognitionLine = IconData(0xf298, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVoiceprintFill = IconData(0xf299, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVoiceprintLine = IconData(0xf29a, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeDownFill = IconData(0xf29b, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeDownLine = IconData(0xf29c, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeMuteFill = IconData(0xf29d, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeMuteLine = IconData(0xf29e, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeOffVibrateFill = IconData(0xf29f, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeOffVibrateLine = IconData(0xf2a0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeUpFill = IconData(0xf2a1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeUpLine = IconData(0xf2a2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeVibrateFill = IconData(0xf2a3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVolumeVibrateLine = IconData(0xf2a4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVuejsFill = IconData(0xf2a5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riVuejsLine = IconData(0xf2a6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWalkFill = IconData(0xf2a7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWalkLine = IconData(0xf2a8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWallet2Fill = IconData(0xf2a9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWallet2Line = IconData(0xf2aa, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWallet3Fill = IconData(0xf2ab, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWallet3Line = IconData(0xf2ac, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWalletFill = IconData(0xf2ad, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWalletLine = IconData(0xf2ae, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWaterFlashFill = IconData(0xf2af, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWaterFlashLine = IconData(0xf2b0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWebcamFill = IconData(0xf2b1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWebcamLine = IconData(0xf2b2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWechat2Fill = IconData(0xf2b3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWechat2Line = IconData(0xf2b4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWechatFill = IconData(0xf2b5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWechatLine = IconData(0xf2b6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWechatPayFill = IconData(0xf2b7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWechatPayLine = IconData(0xf2b8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWeiboFill = IconData(0xf2b9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWeiboLine = IconData(0xf2ba, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWhatsappFill = IconData(0xf2bb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWhatsappLine = IconData(0xf2bc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWheelchairFill = IconData(0xf2bd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWheelchairLine = IconData(0xf2be, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWifiFill = IconData(0xf2bf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWifiLine = IconData(0xf2c0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWifiOffFill = IconData(0xf2c1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWifiOffLine = IconData(0xf2c2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindow2Fill = IconData(0xf2c3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindow2Line = IconData(0xf2c4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindowFill = IconData(0xf2c5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindowLine = IconData(0xf2c6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindowsFill = IconData(0xf2c7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindowsLine = IconData(0xf2c8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindyFill = IconData(0xf2c9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWindyLine = IconData(0xf2ca, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWirelessChargingFill = IconData(0xf2cb, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWirelessChargingLine = IconData(0xf2cc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWomenFill = IconData(0xf2cd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWomenLine = IconData(0xf2ce, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riWubiInput = IconData(0xf2cf, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riXboxFill = IconData(0xf2d0, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riXboxLine = IconData(0xf2d1, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riXingFill = IconData(0xf2d2, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riXingLine = IconData(0xf2d3, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riYoutubeFill = IconData(0xf2d4, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riYoutubeLine = IconData(0xf2d5, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZcoolFill = IconData(0xf2d6, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZcoolLine = IconData(0xf2d7, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZhihuFill = IconData(0xf2d8, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZhihuLine = IconData(0xf2d9, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZoomInFill = IconData(0xf2da, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZoomInLine = IconData(0xf2db, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZoomOutFill = IconData(0xf2dc, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZoomOutLine = IconData(0xf2dd, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZzzFill = IconData(0xf2de, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
+  static const IconData riZzzLine = IconData(0xf2df, fontFamily: "MIcon", fontPackage: 'flutter_remixicon');
 }
